@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">proj12</string>
+    <string name="name" />
+    <string name="contact_number" />
+    <string name="email" />
+    <string name="age" />
+    <string name="submit" />
+    <string name="back" />
+</resources>
